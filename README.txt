@@ -9,7 +9,7 @@ And more...
 
 You can move the Shortcut of ScoreRegister to your Desktop.
 --------------------------------------------------------Contact----------------------------------------------------
-If there is a bug, send an email at paulgamedev@gmail.com, I will try to fix this earlier possible.
+If there is a bug, send an email at paulgamedev1@gmail.com, I will try to fix this earlier possible.
 --------------------------------------------------------Privacy Policy---------------------------------------------
 We didn't collect informations, data or other private informations, so,all your data is safe.Do whatever you want.
 -------------------------------------------------------------------------------------------------------------------
